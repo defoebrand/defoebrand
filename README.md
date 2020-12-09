@@ -10,7 +10,7 @@
 
 <!-- ## My skills -->
 
--   I love to debug code
+-   I love to debug code!
 
 <!-- ## My last 3 articles -->
 
