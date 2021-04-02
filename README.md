@@ -20,5 +20,6 @@
   <img align='center' alt="visitors count" src="https://visitor-badge.glitch.me/badge?page_id=defoebrand.defoebrand">
 </div>
 <br />
-
-[![Brandon Defoe github stats](https://github-readme-stats.vercel.app/api?username=defoebrand&show_icons=true&theme=radical)](https://github.com/defoebrand/github-readme-stats)  
+<div algin='center'>
+  [![Brandon Defoe github stats](https://github-readme-stats.vercel.app/api?username=defoebrand&show_icons=true&theme=radical)](https://github.com/defoebrand/github-readme-stats)  
+</div>
