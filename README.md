@@ -21,5 +21,5 @@
 </div>
 <br />
 <div algin='center'>
-  [![Brandon Defoe github stats](https://github-readme-stats.vercel.app/api?username=defoebrand&show_icons=true&theme=radical)](https://github.com/defoebrand/github-readme-stats)  
+[![Brandon Defoe github stats](https://github-readme-stats.vercel.app/api?username=defoebrand&show_icons=true&theme=radical)](https://github.com/defoebrand/github-readme-stats)  
 </div>
