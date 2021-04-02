@@ -21,4 +21,4 @@
 </div>
 <br />
 
-[![Brandon Defoe github stats](https://github-readme-stats.vercel.app/api?username=defoebrand&show_icons=true&theme=radical)](https://github.com/defoebrand/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defoebrand&show_icons=true&theme=radical&layout=compact)](https://github.com/defoebrand/github-readme-stats)
+[![Brandon Defoe github stats](https://github-readme-stats.vercel.app/api?username=defoebrand&show_icons=true&theme=radical)](https://github.com/defoebrand/github-readme-stats)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
