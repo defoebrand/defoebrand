@@ -1,7 +1,5 @@
 <h1 align='center'>Hello World!</h1>
 
-<p>Check out my portfolio at <a href='http://www.defoebrand.com'>DefoeBrand</a></p>
-
 <p align='center'>You can also find me at any of the sites below</p>
 
 <div align='center'>
